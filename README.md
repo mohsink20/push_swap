@@ -4,8 +4,6 @@ Because Swap_push isn’t as natural
 ## Summary:
 This project involves sorting data on a stack using a limited set of instructions, aiming for the lowest possible number of actions. The goal is to write a program in C called `push_swap`, which calculates and displays the smallest program, made of Push swap language instructions, that sorts the integers received as arguments.
 
-- Version: 7
-
 ## Contents
 I. [Introduction](#i-introduction)  
 II. [Objectives](#ii-objectives)  
